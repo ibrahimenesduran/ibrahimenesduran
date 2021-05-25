@@ -10,7 +10,6 @@
 A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
 
 **About Me!**
-
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/matrix.gif"/>
   
 - 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
