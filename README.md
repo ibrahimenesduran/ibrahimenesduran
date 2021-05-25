@@ -22,9 +22,6 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
 
 
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=ibrahimenesduran&color=03A062&label=Profile Views&style=flat-square" alt="js" />
-</p>
 
 
 
@@ -34,5 +31,10 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
 [![Ibrahim Enes Duran Github Stats](https://readme-stats.warengonzaga.com/api?username=ibrahimenesduran&show_icons=true&count_private=true)](https://github.com/ibrahimenesduran/ibrahimenesduran) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=ibrahimenesduran&layout=compact)](https://github.com/ibrahimenesduran/ibrahimenesduran)
 ---
 :computer: Made with :heart: 
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=ibrahimenesduran&color=03A062&label=Profile Views&style=flat-square" alt="js" />
+</p>
+
 -->
 
