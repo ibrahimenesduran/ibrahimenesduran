@@ -18,7 +18,14 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
 - 💬 Ask me about anything, I love to answer!
 
 ## :wrench: Technologies
-![PYTHON](https://img.icons8.com/color/30/python.png)![C](https://img.icons8.com/color/30/c-programming.png)![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Spyder IDE](https://img.icons8.com/fluent/30/spyder-ide.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
+![PYTHON](https://img.icons8.com/color/30/python.png) ![C](https://img.icons8.com/color/30/c-programming.png) ![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![MySQL](https://img.icons8.com/fluent/30/mysql-logo.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Spyder IDE](https://img.icons8.com/fluent/30/spyder-ide.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png) ![Windows](https://img.icons8.com/color/30/windows-10.png) ![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png) ![Linux](https://img.icons8.com/color/30/linux.png) ![Console](https://img.icons8.com/color/30/console.png)
+
+
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=ibrahimenesduran&color=03A062&label=Profile Views&style=flat-square" alt="js" />
+</p>
+
 
 
 <!--
@@ -28,3 +35,4 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
 ---
 :computer: Made with :heart: 
 -->
+
