@@ -21,19 +21,6 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
 ## :wrench: Technologies
 ![PYTHON](https://img.icons8.com/color/30/python.png) ![C](https://img.icons8.com/color/30/c-programming.png) ![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![MySQL](https://img.icons8.com/fluent/30/mysql-logo.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Spyder IDE](https://img.icons8.com/fluent/30/spyder-ide.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png) ![Windows](https://img.icons8.com/color/30/windows-10.png) ![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png) ![Linux](https://img.icons8.com/color/30/linux.png) ![Console](https://img.icons8.com/color/30/console.png)
 
-## :desktop_computer: Projects
-
-<p align="center">
-  <a href="https://github.com/fiAnaliz/fiAnaliz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fiAnaliz&repo=fiAnaliz" />
-  </a>
-  <a href="https://github.com/ibrahimenesduran/yokAtlas-crawler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimenesduran&repo=yokAtlas-crawler" />
-  </a>
-</p>
-
-<!--
-
 ## GitHub Stats
 
 [![Ibrahim Enes Duran Github Stats](https://readme-stats.warengonzaga.com/api?username=ibrahimenesduran&show_icons=true&count_private=true)](https://github.com/ibrahimenesduran/ibrahimenesduran) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=ibrahimenesduran&layout=compact)](https://github.com/ibrahimenesduran/ibrahimenesduran)
@@ -44,5 +31,4 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
 	<img src="https://komarev.com/ghpvc/?username=ibrahimenesduran&color=03A062&label=Profile Views&style=flat-square" alt="js" />
 </p>
 
--->
 
