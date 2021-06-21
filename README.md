@@ -29,7 +29,7 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
   -->
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/main/assets/logo/c%2B%2B-logo.png"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/cplusplus-logo.svg"></code>
   <br />
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
