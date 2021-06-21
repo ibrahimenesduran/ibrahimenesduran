@@ -18,12 +18,30 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
 - 🎓 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 
-## :wrench: Technologies
-![PYTHON](https://img.icons8.com/color/30/python.png) ![C](https://img.icons8.com/color/30/c-programming.png) ![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![MySQL](https://img.icons8.com/fluent/30/mysql-logo.png) ![Github](https://img.icons8.com/material-outlined/30/github.png) ![Spyder IDE](https://img.icons8.com/fluent/30/spyder-ide.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png) ![Windows](https://img.icons8.com/color/30/windows-10.png) ![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png) ![Linux](https://img.icons8.com/color/30/linux.png) ![Console](https://img.icons8.com/color/30/console.png)
-
-## :bar_chart: GitHub Stats
+**Languages and Tools:** 
+<p>
   <a href="https://github.com/ibrahimenesduran/ibrahimenesduran">
     <img width="55%" align="right" alt="Ibrahim Enes Duran's Github Stats" src="https://readme-stats.warengonzaga.com/api?username=ibrahimenesduran&show_icons=true&count_private=true" />
   </a>
+
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
 
 
