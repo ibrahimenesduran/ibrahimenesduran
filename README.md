@@ -27,11 +27,11 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/d1b0f8ddb824c23ccafe9b6f248a378b981d7bc6/assets/logo/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/main/assets/logo/c%2B%2B-logo.png"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/d1b0f8ddb824c23ccafe9b6f248a378b981d7bc6/assets/logo/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <br />
