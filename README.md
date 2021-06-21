@@ -29,7 +29,7 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
+  <code><img width="24" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
