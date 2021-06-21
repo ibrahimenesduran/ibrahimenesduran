@@ -28,7 +28,7 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/python-ar21.svg"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/c-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/c-ar21.png"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/cplusplus-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/nodejs-ar21.svg"></code>
