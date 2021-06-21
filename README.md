@@ -28,20 +28,20 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/c-ar21.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/cplusplus-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/npmjs-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/visualstudio_code-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/phpmyadmin-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/github-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/microsoft-ar21.svg"></code>
 </p>
 
 
