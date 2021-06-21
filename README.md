@@ -25,8 +25,7 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
 
 ## :desktop_computer: Projects
 
-<img href = "https://github.com/fiAnaliz/fiAnaliz" src="https://raw.githubusercontent.com/fiAnaliz/fiAnaliz/main/images/logo.png" height = "50"/>
-<img href = "https://github.com/ibrahimenesduran/yokAtlas-crawler" src="https://raw.githubusercontent.com/ibrahimenesduran/yokAtlas-crawler/main/images/yokLogo.png" height = "50" />
+<img href = "https://github.com/fiAnaliz/fiAnaliz" src="https://raw.githubusercontent.com/fiAnaliz/fiAnaliz/main/images/logo.png" height = "50"/><img href = "https://github.com/ibrahimenesduran/yokAtlas-crawler" src="https://raw.githubusercontent.com/ibrahimenesduran/yokAtlas-crawler/main/images/yokLogo.png" height = "50" />
 
 <!--
 ## GitHub Stats
