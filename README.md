@@ -24,9 +24,6 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
     <img width="55%" align="right" alt="Ibrahim Enes Duran's Github Stats" src="https://readme-stats.warengonzaga.com/api?username=ibrahimenesduran&show_icons=true&count_private=true" />
   </a>
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/python-ar21.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/c-ar21.png"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/cplusplus-ar21.png"></code>
@@ -43,5 +40,4 @@ A **Computer Engineering Student** 🛸 from Istanbul, Turkey.
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/linux-ar21.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/ibrahimenesduran/ibrahimenesduran/master/assets/logo/microsoft-ar21.svg"></code>
 </p>
-
 
